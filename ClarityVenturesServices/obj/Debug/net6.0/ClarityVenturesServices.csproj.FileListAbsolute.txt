@@ -1,0 +1,12 @@
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/bin/Debug/net6.0/ClarityVenturesServices.deps.json
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/bin/Debug/net6.0/ClarityVenturesServices.dll
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/bin/Debug/net6.0/ClarityVenturesServices.pdb
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/obj/Debug/net6.0/ClarityVenturesServices.csproj.AssemblyReference.cache
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/obj/Debug/net6.0/ClarityVenturesServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/obj/Debug/net6.0/ClarityVenturesServices.AssemblyInfoInputs.cache
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/obj/Debug/net6.0/ClarityVenturesServices.AssemblyInfo.cs
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/obj/Debug/net6.0/ClarityVenturesServices.csproj.CoreCompileInputs.cache
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/obj/Debug/net6.0/ClarityVenturesServices.dll
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/obj/Debug/net6.0/refint/ClarityVenturesServices.dll
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/obj/Debug/net6.0/ClarityVenturesServices.pdb
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesServices/obj/Debug/net6.0/ref/ClarityVenturesServices.dll

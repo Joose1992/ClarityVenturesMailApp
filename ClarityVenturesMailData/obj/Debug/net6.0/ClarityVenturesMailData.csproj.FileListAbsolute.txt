@@ -1,0 +1,12 @@
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/bin/Debug/net6.0/ClarityVenturesMailData.deps.json
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/bin/Debug/net6.0/ClarityVenturesMailData.dll
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/bin/Debug/net6.0/ClarityVenturesMailData.pdb
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/obj/Debug/net6.0/ClarityVenturesMailData.csproj.AssemblyReference.cache
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/obj/Debug/net6.0/ClarityVenturesMailData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/obj/Debug/net6.0/ClarityVenturesMailData.AssemblyInfoInputs.cache
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/obj/Debug/net6.0/ClarityVenturesMailData.AssemblyInfo.cs
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/obj/Debug/net6.0/ClarityVenturesMailData.csproj.CoreCompileInputs.cache
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/obj/Debug/net6.0/ClarityVenturesMailData.dll
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/obj/Debug/net6.0/refint/ClarityVenturesMailData.dll
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/obj/Debug/net6.0/ClarityVenturesMailData.pdb
+/Users/josemontanez/RiderProjects/ClarityVenturesMailApp/ClarityVenturesMailData/obj/Debug/net6.0/ref/ClarityVenturesMailData.dll
